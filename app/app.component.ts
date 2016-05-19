@@ -1,4 +1,6 @@
 ﻿import { Component } from 'angular2/core';
+//import {enableProdMode} from 'angular2/core';
+//enableProdMode();
 
 @Component({
     selector: 'pm-app',

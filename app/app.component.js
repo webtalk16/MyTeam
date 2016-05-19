@@ -18,6 +18,8 @@ System.register(['angular2/core'], function(exports_1, context_1) {
                 core_1 = core_1_1;
             }],
         execute: function() {
+            //import {enableProdMode} from 'angular2/core';
+            //enableProdMode();
             AppComponent = (function () {
                 function AppComponent() {
                     this.pageTitle = 'I added this title';
